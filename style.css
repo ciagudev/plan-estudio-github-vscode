@@ -28,6 +28,12 @@ ul {
 
 ul li {
   margin: 0.5rem 0;
+  cursor: pointer;
+}
+
+.completada {
+  text-decoration: line-through;
+  color: gray;
 }
 
 footer {
